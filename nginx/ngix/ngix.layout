@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="../../src/core/nginx.c" open="1" top="0" tabpos="1">
+		<Cursor position="5577" topLine="200" />
+	</File>
+	<File name="../../src/core/ngx_core.h" open="1" top="0" tabpos="2">
+		<Cursor position="383" topLine="1" />
+	</File>
+	<File name="../../src/core/ngx_log.h" open="1" top="0" tabpos="3">
+		<Cursor position="1173" topLine="53" />
+	</File>
+	<File name="../../src/os/unix/ngx_errno.c" open="1" top="1" tabpos="4">
+		<Cursor position="1342" topLine="43" />
+	</File>
+	<File name="../../src/os/unix/ngx_sunpro_amd64.il" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="19" />
+	</File>
+	<File name="../../src/os/unix/rfork_thread.S" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="34" />
+	</File>
+</CodeBlocks_layout_file>
